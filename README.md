@@ -2,6 +2,8 @@
 
 [See Live Demo of this Template](https://drt-next-js-template.netlify.app/)
 
+## [Team Roster Instructions](./INSTRUCTIONS.md)
+
 ## Topics
 - [Get Started](#get-started)
 - [Starting the Project](#starting-the-project)
