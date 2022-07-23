@@ -1,5 +1,5 @@
 # Team Roster
-For this project you will be building a team roster for a sports team.  Pick any team sport you want.  Theme your project based on the sport.
+For this project you will be building a team roster.  Pick any team sport you want.  Theme your project based on the sport.
 
 ## Requirements
 Take some time to plan your project and track how the data will flow. **It is expected that you will complete this assignment by the due date, so plan accordingly.**
@@ -8,7 +8,7 @@ Take some time to plan your project and track how the data will flow. **It is ex
 
 Here is the ERD for this project:
 
-<img width="291" alt="srerd" src="https://user-images.githubusercontent.com/29741570/137314750-ec4b65c5-e139-4b1a-8fa5-6d25aa57afb7.png">
+![Screen Shot 2022-07-23 at 9 34 29 AM](https://user-images.githubusercontent.com/29741570/180609687-129ecf4e-ef4d-4a83-85d5-e7688a6c6599.png)
 
 Here are the user stories that need to be completed:
 ### Authentication
